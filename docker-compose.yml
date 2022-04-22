@@ -1,7 +1,7 @@
 version: '2'
 services:
-    prueba_jenkins:
-      container_name: prueba_jenkins
+    prueba_jenkin:
+      container_name: prueba_jenkin
       build: .
   
     
